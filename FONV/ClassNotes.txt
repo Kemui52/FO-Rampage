@@ -1,0 +1,57 @@
+DLC04ManAxeDoorExplosion	-small, dirty	!!okay sound? no.....
+EyebotExposion			-small electronic
+FireExtinguisherExplosion	-small, maildropbox sized
+TRAPLaserTripwireDestroyed
+
+
+--write out insect changes
+	should disable mantis nymph script when giant
+--gtsDestBody: test alien, ghoul, glowing, dlc03 brain
+	scorpion squish okay?
+	lowered the volume of ghoul deaths?
+	can cyberdog head be severed?
+	ravens should now make a noise when stepped on
+		they don't give xp when squished? removed destruct data
+	supermutant give squash?
+--we can add a faction to the end of the assault alarm? do we want to?
+--examine zss
+--crushing dead grants xp, but not eating dead? confirm and make consistent!
+
+
+
+Sound: FSTSuperMutantPlayerGiantLeft ???
+
+Removing Pip-Boy: ???
+Have the mod on.
+Hotkey desired outfit only.
+Unequip Pip-Boy, then unequip and re-equip outfit.
+Enter "bat glove".
+Overwrite hotkey however you like.
+
+scgmp 0 0 3 ???
+scgmp 41 0 0
+  Set (attributes/tag skills) (?) (amount to set)
+scgmod 0 0 1
+scgmod 1 0 0
+  Modify (attributes/tag skills) (?) (amount to add)
+
+addperk (no rank var, just add multiple times to player)
+ut0029BF damage up perk (rank 1 adds, 2 sets) ???
+sf028479 multitool perk ??? (this is an item, why do we need to list it?)
+gtsRadRecovery (restores rads while giant)
+
+addspell
+0005876C waterbreathing ???
+00060C16 rad immunity ???
+
+additem
+gtsFootstepArmor (nope. gotta make different versions of every single armor)
+
+coc
+backups (test map)
+gtsTestSquishMap (custom start in map above, named by gTestSquish)
+TownCenter (empty map)
+
+
+setstage
+

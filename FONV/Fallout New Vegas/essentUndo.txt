@@ -1,0 +1,1 @@
+setini "bEssentialTakeNoDamage:GamePlay" 1

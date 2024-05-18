@@ -1,0 +1,6 @@
+;behemoth, maybe liberty prime
+;ToggleImmortalMode 2
+setstage gtsCrushQuest 2
+player.setscale 2
+
+;player.update3d

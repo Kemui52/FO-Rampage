@@ -1,0 +1,6 @@
+;dlc05alien
+;ToggleImmortalMode 2
+setstage gtsCrushQuest 1
+player.setscale 5
+
+;player.update3d

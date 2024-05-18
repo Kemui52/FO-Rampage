@@ -1,0 +1,6 @@
+;ToggleImmortalMode 0
+setstage gtsCrushQuest 255
+;player.setspeedmult 100
+player.setscale 1
+
+;player.update3d

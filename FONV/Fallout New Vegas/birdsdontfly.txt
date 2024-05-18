@@ -1,0 +1,1 @@
+gtsBirdMaxScale = 1.1
