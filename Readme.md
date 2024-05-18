@@ -15,7 +15,7 @@ Allows the player to grow into an invincible giant and stomp around as they plea
 
 Files in "Fallout New Vegas" go inside the game's installation folder. They are batch files for activating aspects of the mod and ESPs for the mods themselves.
 
-Files in "Mod Organizer 2" are intended to be placed in a Mod Organizer "mods" folder for simple categorization and activation. You could also place their contents into the game's Data folder if you don't have a program for organizing loose files.
+Files in "Mod Organizer 2" are intended to be placed in a Mod Organizer "mods" folder for simple categorization and activation. You could also place their contents into the game's Data folder if you don't have a program for organizing loose files, just make sure you know where everything goes.
 
 ### What Are the Mods?
 
