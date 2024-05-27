@@ -4,12 +4,13 @@ FireExtinguisherExplosion	-small, maildropbox sized
 TRAPLaserTripwireDestroyed
 
 
---still need to write out robots and animals
+--guess we wrote out everything?
 	should disable mantis nymph script when giant, test
-	eat: sm, behemoth, deathclaw centaur, spores, ghoul night, mantis,
-		queen, ant, caz
+	eat: sm, behemoth, deathclaw! centaur, spores, ghoul night, queen, brainbot,
+	 ant, caz, eyebot, sentrybot securitron, robobrain, raven, roboscorpion
 --gtsDestBody: test alien, ghoul, glowing, dlc03 brain
 	scorpion squish okay?
+	bighorner's body parts too noisy? from decal mod?
 	lowered the volume of ghoul deaths?
 	can cyberdog head be severed?
 	ravens should now make a noise when stepped on
@@ -17,7 +18,7 @@ TRAPLaserTripwireDestroyed
 	supermutant give squash?
 --we can add a faction to the end of the assault alarm? do we want to?
 --names and maybe models for zss
---crushing dead grants xp, but not eating dead? should be fixed
+--crushing dead grants xp, but not eating dead? oh right, doesn't work
 --AuxVarSetFlt "_GTScrushed" 10
 	replace every NightEye check with that
 
