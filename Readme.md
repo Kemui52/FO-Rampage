@@ -41,7 +41,7 @@ Files in "Mod Organizer 2" are intended to be placed in a Mod Organizer "mods" f
 
 ### What Are Those Batch Files?
 
-These are files you can call with the ``bat`` console command to enable some options and become a giant. I do it this way because the console is quicker to access than going through menus to find an item.
+These are files you can call with the ``bat`` console command to enable some options and become a giant. I do it this way because the console is quicker to access than going through menus to find an item. Maybe I'll make an MCM menu some time.
 
 ``rampage`` turns you into a giant. ``rampageUndo`` returns you to normal. The AL and BH files are for when I eventually set up playing as creatures.
 

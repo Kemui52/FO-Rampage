@@ -6,8 +6,8 @@ TRAPLaserTripwireDestroyed
 
 --guess we wrote out everything?
 	should disable mantis nymph script when giant, test
-	eat: sm, behemoth, deathclaw! centaur, spores, ghoul night, queen, brainbot,
-	 ant, caz, eyebot, sentrybot securitron, robobrain, raven, roboscorpion
+	eat: sm, behemoth, deathclaw! centaur, spores, nightstalker, queen, brainbot,
+	 ant, caz, eyebot, sentrybot securitron, robobrain, raven, roboscorpion, rad
 --gtsDestBody: test alien, ghoul, glowing, dlc03 brain
 	scorpion squish okay?
 	bighorner's body parts too noisy? from decal mod?
@@ -18,7 +18,7 @@ TRAPLaserTripwireDestroyed
 	supermutant give squash?
 --we can add a faction to the end of the assault alarm? do we want to?
 --names and maybe models for zss
---crushing dead grants xp, but not eating dead? oh right, doesn't work
+--currently testing playing crush dismember only once
 --AuxVarSetFlt "_GTScrushed" 10
 	replace every NightEye check with that
 
