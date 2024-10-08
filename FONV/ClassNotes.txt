@@ -5,22 +5,22 @@ TRAPLaserTripwireDestroyed
 
 
 --guess we wrote out everything?
-	should disable mantis nymph script when giant, test
-	eat: sm, behemoth, deathclaw! centaur, spores, nightstalker, queen, brainbot,
-	 ant, caz, eyebot, sentrybot securitron, robobrain, raven, roboscorpion, rad
+	eat: sm, behemoth, deathclaw! centaur, spores, nightstalker!, queen, brainbot,
+	 ant!, caz, eyebot, sentrybot securitron, robobrain, raven!, roboscorpion, rad!
+	tribal cannibal perk needs compat
 --gtsDestBody: test alien, ghoul, glowing, dlc03 brain
-	scorpion squish okay?
-	bighorner's body parts too noisy? from decal mod?
+	bighorner's body parts too noisy? not from decal mod, seemingly?
 	lowered the volume of ghoul deaths?
 	can cyberdog head be severed?
-	ravens should now make a noise when stepped on
-		they don't give xp when squished? removed destruct data
 	supermutant give squash?
 --we can add a faction to the end of the assault alarm? do we want to?
 --names and maybe models for zss
 --currently testing playing crush dismember only once
+	i forgot what this means, but nothing seems wrong
 --AuxVarSetFlt "_GTScrushed" 10
 	replace every NightEye check with that
+	Wait...we can't use this in a perk condition.
+--DismemberLimb? GetEquipmentSlotsMask? UnsetAV? AgeRace?
 
 
 
