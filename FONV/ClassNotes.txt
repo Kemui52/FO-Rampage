@@ -5,12 +5,12 @@ TRAPLaserTripwireDestroyed
 
 
 --guess we wrote out everything?
-	eat: sm, behemoth, deathclaw! centaur, spores, nightstalker!, queen, brainbot,
-	 ant!, caz, eyebot, sentrybot securitron, robobrain, raven!, roboscorpion, rad!
-	tribal cannibal perk needs compat
+	eat: sm, behemoth, deathclaw! centaur, spores, queen, brainbot,
+	 caz, eyebot, securitron, robobrain, roboscorpion
 --gtsDestBody: test alien, ghoul, glowing, dlc03 brain
-	bighorner's body parts too noisy? not from decal mod, seemingly?
-	lowered the volume of ghoul deaths?
+	bighorner's body parts too noisy? test
+		radscorps too noisy, actually. testing silent decals
+	lowered the volume of ghoul deaths? seems so
 	can cyberdog head be severed?
 	supermutant give squash?
 --we can add a faction to the end of the assault alarm? do we want to?
@@ -21,6 +21,7 @@ TRAPLaserTripwireDestroyed
 	replace every NightEye check with that
 	Wait...we can't use this in a perk condition.
 --DismemberLimb? GetEquipmentSlotsMask? UnsetAV? AgeRace?
+--can we stop activations if shift is held? cool
 
 
 
