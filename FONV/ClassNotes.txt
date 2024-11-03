@@ -5,14 +5,13 @@ TRAPLaserTripwireDestroyed
 
 
 --guess we wrote out everything?
-	eat: sm, behemoth, deathclaw! centaur, spores, queen, brainbot,
-	 caz, eyebot, securitron, robobrain, roboscorpion
+	eat: behemoth, spores, queen, eyebot, securitron, robobrain, roboscorpion
 --gtsDestBody: test alien, ghoul, glowing, dlc03 brain
-	bighorner's body parts too noisy? test
-		radscorps too noisy, actually. testing silent decals
-	lowered the volume of ghoul deaths? seems so
+	gave silent decals to cazador
 	can cyberdog head be severed?
-	supermutant give squash?
+	centaurs make weird snapping sound when dying. test
+	test mantis & securitron & rat
+			^ testing screen dismem
 --we can add a faction to the end of the assault alarm? do we want to?
 --names and maybe models for zss
 --currently testing playing crush dismember only once
@@ -20,14 +19,13 @@ TRAPLaserTripwireDestroyed
 --AuxVarSetFlt "_GTScrushed" 10
 	replace every NightEye check with that
 	Wait...we can't use this in a perk condition.
---DismemberLimb? GetEquipmentSlotsMask? UnsetAV? AgeRace?
---can we stop activations if shift is held? cool
+--DismemberLimb? GetEquipmentSlotsMask?
 
 
 
-Sound: FSTSuperMutantPlayerGiantLeft ???
+Sound: FSTSuperMutantPlayerGiantLeft todo???
 
-Removing Pip-Boy: ???
+Removing Pip-Boy: todo???
 Have the mod on.
 Hotkey desired outfit only.
 Unequip Pip-Boy, then unequip and re-equip outfit.
@@ -42,16 +40,16 @@ scgmod 1 0 0
   Modify (attributes/tag skills) (?) (amount to add)
 
 addperk (no rank var, just add multiple times to player)
-ut0029BF damage up perk (rank 1 adds, 2 sets) ???
-sf028479 multitool perk ??? (this is an item, why do we need to list it?)
+addDamageUpPerk (damage-up perk) (rank 1 adds, 2 sets)
+gtsLockPerk (multitool, open any lock)
 gtsRadRecovery (restores rads while giant)
 
 addspell
-0005876C waterbreathing ???
-00060C16 rad immunity ???
+0005876C waterbreathing
+00060C16 rad immunity
 
 additem
-gtsFootstepArmor (nope. gotta make different versions of every single armor)
+gtsLockPerkAddItem
 
 coc
 backups (test map)
